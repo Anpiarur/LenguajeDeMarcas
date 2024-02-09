@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>
+            RSS ANGELA RUIZ
+        </title>
+        <link>
+            https://www.rssangela.com
+        </link>
+        <description>
+            Podcast interesantes
+        </description>
+        <language>ES</language>
+        <item>
+        <title>
+            Entrevista con expertos
+        </title>
+        <link>
+            https://www.ejemplo.com/episodio1
+        </link>
+        <description>
+            Conversaciones con líderes de la industria sobre temas interesantes
+        </description>
+        <pubDate>Sun, 03 Dec 2023</pubDate>
+        <itunes:duration>00:30:00</itunes:duration>
+    </item>
+    </channel>
+</rss>

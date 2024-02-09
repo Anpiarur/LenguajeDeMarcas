@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+   <title>Ejemplo Feed</title>
+    <link rel="self" type="aplication/atom+xml" href="http://example.org/feed/atom"/>
+    <link rel="alterate" type="text/html" href="http://example.org" />
+    <updated>2003-12-13T18:30:02Z</updated>
+    
+    <id>http://example.org/feed/atom"</id>
+
+    <entry>
+      <title>Desarrollos tecnológicos del año</title>
+      <link href="http://ejemplo.com/noticia1"/>
+      <id>"http://ejemplo.com/noticia1"</id>
+      <updated>2023-12-04T09:00:02Z</updated>
+      <author>
+        <name>NoticiasActuales </name>
+      </author>
+      <summary>Repaso de los desarrollos tecnológicos mas destacados del año</summary>
+    </entry>
+</feed>

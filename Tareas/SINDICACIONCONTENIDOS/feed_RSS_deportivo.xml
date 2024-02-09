@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>RSS Noticias Deportivas</title>
+        <link>https://www.ejemplo.com</link>
+        <description>Últimas noticias deportivas</description>
+        <language>es</language>
+
+
+        <item>
+            <title>¡Gana el Málaga!</title>
+            <link>https://www.ejemplo.com/noticia1</link>
+            <description>El club de fútbol lográ mantenerse en segunda.</description>
+            <pubDate>Sun, 7 Jan 2024 18:00:00 GMT</pubDate>
+            <guid>https://www.ejemplo.com/noticia1</guid>
+            <category>Fútbol</category>
+        </item>
+
+        <item>
+            <title>Noche de patines</title>
+            <link>https://www.ejemplo.com/noticia2</link>
+            <description>Las noches de febrero serán el punto de reunión para miles de patinadores
+                en Málaga.</description>
+            <pubDate>Mon, 29 Jan 2024 09:30:00 GMT</pubDate>
+            <guid>https://www.ejemplo.com/noticia2</guid>
+            <category>Patinaje</category>
+        </item>
+
+    </channel>
+</rss>

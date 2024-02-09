@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+  </head>
+  <body>
+    <form action="formulario" method="get">
+      <p>Nombre: <input type="text" name="nombre" maxlength="30" /></p>
+      <p>Apellidos: <input type="text" name="apellidos" maxlength="30" /></p>
+      <p>Mail: <input type="email" name="mail" required /></p>
+      <p>
+        Asunto:
+        <select name="asunto" size="3">
+          <option value="1">Pedir presupuesto</option>
+          <option value="2">Solicitar cita previa</option>
+          <option value="3">Otros</option>
+        </select>
+      </p>
+      <p></p>
+      <p>
+        ¿Cómo nos has conocido?:
+        <select name="conocer">
+          <option value="1">Por un amigo</option>
+          <option value="2">Por redes sociales</option>
+          <option value="3">Por un correo</option>
+          <option value="4">Por un anuncio</option>
+        </select>
+      </p>
+      <p>
+        Mensaje
+        <textarea
+          name="mensaje"
+          rows="8"
+          cols="50"
+          placeholder="Máximo 300 carácteres"
+          maxlength="300"
+        >
+        </textarea>
+      </p>
+      <p>
+        Aceptación de cláusula de rgpd
+        <input type="checkbox" name="clausula" required />
+      </p>
+    </form>
+  </body>
+</html>
