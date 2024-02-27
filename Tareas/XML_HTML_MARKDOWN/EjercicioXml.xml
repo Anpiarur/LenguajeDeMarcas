@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<biblioteca>
+    <libro>
+        <titulo>Psicología del color</titulo>
+        <autor>Eva Heller</autor>
+    </libro>
+    <libro>
+        <titulo>Cómo piensa el mundo</titulo>
+        <autor>Julian Baggini</autor>
+    </libro>
+    <libro>
+        <titulo>Harry Potter y la piedra filosofal</titulo>
+        <autor>J.K. Rowling</autor>
+    </libro>
+</biblioteca>
