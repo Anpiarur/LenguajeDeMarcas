@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<gimnasio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <disciplina id="1">
+        <nombre>Pilates </nombre>
+        <precio cuota="mensual" moneda="euro">35</precio>
+        <plazas>20</plazas>
+        <comienzo>1/10/2021</comienzo>
+        <fin>1/07/2022</fin>
+        <profesor>Profesor_Pilates </profesor>
+        <sala>1</sala>
+    </disciplina>
+     <disciplina id="2">
+        <nombre>Crossfit </nombre>
+        <precio cuota="trimestral" moneda="euro">100</precio>
+        <plazas>18</plazas>
+        <comienzo>1/07/2021</comienzo>
+        <fin>1/10/2021</fin>
+        <profesor>Profesora_Crossfit </profesor>
+        <sala>2</sala>
+    </disciplina>
+     <disciplina id="3">
+        <nombre>BodyPump </nombre>
+        <precio cuota="mensual" moneda="euro">30</precio>
+        <plazas>15</plazas>
+        <comienzo>1/01/2021</comienzo>
+        <fin>1/12/2021</fin>
+        <profesor>Profesor_BodyPump </profesor>
+        <sala>1</sala>
+    </disciplina>
+    <disciplina id="4">
+        <nombre>Zumba </nombre>
+        <precio cuota="trimestral" moneda="dolares">80</precio>
+        <plazas>12</plazas>
+        <comienzo>1/01/2021</comienzo>
+        <fin>1/12/2021</fin>
+        <profesor>Porfesora_Zumba </profesor>
+        <sala>2</sala>
+    </disciplina>
+     <disciplina id="5">
+        <nombre>Spinning </nombre>
+        <precio cuota="mensual" moneda="dolares">40</precio>
+        <plazas>10</plazas>
+        <comienzo>1/10/2021</comienzo>
+        <fin>1/07/2022</fin>
+        <profesor>Profesor_Spinning </profesor>
+        <sala>2</sala>
+    </disciplina>
+    <disciplina id="6">
+        <nombre>Step </nombre>
+        <precio cuota="anual" moneda="euro">300</precio>
+        <plazas>10</plazas>
+        <comienzo>1/01/2021</comienzo>
+        <fin>31/12/2021</fin>
+        <profesor>Porfesora_Zumba </profesor>
+        <sala>1</sala>
+    </disciplina>
+</gimnasio>

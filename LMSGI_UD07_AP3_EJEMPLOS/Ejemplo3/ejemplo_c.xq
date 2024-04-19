@@ -1,0 +1,1 @@
+sum(//gimnasio/disciplina/precio)
